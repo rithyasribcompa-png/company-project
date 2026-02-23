@@ -309,7 +309,7 @@ Developed by
 
 <span className="font-semibold text-blue-600 ml-1">
 
-Your Name
+Gopinath .R and Rithyasri .S
 
 </span>
 
